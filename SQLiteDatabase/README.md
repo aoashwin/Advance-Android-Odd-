@@ -1,4 +1,4 @@
-# Ex.No:1 To create a database table and to display the database table field using SQLite Database in Android Studio.
+## Ex.No:1 To create a database table and to display the database table field using SQLite Database in Android Studio.
 ## AIM:
 To create a database table and to display the database table field using SQLite Database in Android Studio.
 
